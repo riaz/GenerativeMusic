@@ -1,3 +1,7 @@
+import os
+
+print(os.getcwd())
+
 from GenerativeMusic import square
 
 
